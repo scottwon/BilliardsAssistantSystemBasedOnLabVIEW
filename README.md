@@ -11,4 +11,4 @@ My contributions in the project are:
 
 3. To build the 'prototype'. I tested my ideas and algorithms in C++ first, and then my teammates transplant the code to the LabVIEW platform.
 
-My work is in the folder 'ProtoCodes' and W. Chen's work is in the folder 'LabVIEW'. H. Huang helped us a lot in the aspect of hardware and deployment.
+My work is in the folder 'ProtoCodes' and W. Chen's work is in the folder 'LabVIEW'. H. Huang helped us a lot in the aspect of hardware, brainstorming, testing/debuging and deployment.
