@@ -5,7 +5,7 @@ This is a teamwork and my teammates are Weishu Chen and Han Huang.
 
 My contributions in the project are:
 
-1. To find out the feasible algorithms for ball detection. In fact, OpenCV offers the function HoughCircle which is adequate for our task of detecting the balls.
+1. To find out the feasible algorithms for ball detection. To achieve this, I use the color histogram to find out the background color first, then I binarize the image, rendering the background black and the rest part white. As a matter of fact, OpenCV offers the function HoughCircle which is adequate for our task of detecting the balls on the binarized images.
 
 2. To design the algorithms for stick detection and table edge detection. I have tried the Sobel operator, the Canny edge detector, the LSD algorithm and the EDLine algorithm and none of them is practically competent for our tasks. So I designed my own algorithms that can produce favorable outcome.
 
